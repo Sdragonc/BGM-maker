@@ -29,7 +29,7 @@ boostcamp 4th NLP Final Project :
 ### Contribution
 `김건우` : 모델 학습, 파이프라인 설계, Riffusion <br>
 `백단익` : 모델 설계 및 분석, whisper <br>
-`손용찬` : 모델 설계 및 분석, 감성분류 <br>
+`손용찬` : 모델 학습, 모델 설계 및 분석, 감성분류 <br>
 `이재덕` : Frontend, Backend, 아키텍처, Riffusion <br>
 `정석희` : Backend, 아키텍처
 
